@@ -1,55 +1,20 @@
-<<<<<<< HEAD
 # React-Native
-Lưu trữ bài tập cá nhân môn Lâp trình di động nâng cao
-=======
-# Welcome to your Expo app 👋
+Bước 1: Cài đặt môi trường React Native
+- Cài đặt Node.js và npm
+- Cài đặt Android Studio (dành cho phát triển Android)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bước 2: Tạo dự án React Native mới
+- Tạo dự án mới: npx create-expo-app@latest baitap1
+- Cài đặt các thư viện cần thiết (nếu cần): npm i
+- Di chuyển vào thư mục dự án vừa tạo: cd baitap1
+- Chạy ứng dụng: npm run android
 
-## Get started
+Bước 3: Phát triển ứng dụng
 
-1. Install dependencies
+Giao diện trang giới thiệu bản thân.
 
-   ```bash
-   npm install
-   ```
+![image](https://github.com/user-attachments/assets/f5feea7e-422b-493a-8a5c-1a0faf085488)
 
-2. Start the app
+Giao diện trang Homepage.
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> 49a8f88 (Initial commit)
+![image](https://github.com/user-attachments/assets/d37ffe16-73ac-414f-8b27-6bdea356f620)
