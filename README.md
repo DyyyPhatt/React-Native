@@ -10,8 +10,11 @@ Bước 2: Tạo dự án React Native mới
 - Chạy ứng dụng: npm run android
 
 Bước 3: Phát triển ứng dụng
+
 Giao diện trang giới thiệu bản thân.
+
 ![image](https://github.com/user-attachments/assets/f5feea7e-422b-493a-8a5c-1a0faf085488)
 
 Giao diện trang Homepage.
+
 ![image](https://github.com/user-attachments/assets/d37ffe16-73ac-414f-8b27-6bdea356f620)
