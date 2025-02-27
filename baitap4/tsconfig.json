@@ -1,0 +1,7 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "typeRoots": ["node_modules/@types", "src/types"]
+  },
+  "include": ["src/**/*", "src/types/react-native-vector-icons.d.ts"]
+}
